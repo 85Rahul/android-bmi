@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        app:showAsAction="never"
+        android:title="About developer"
+        android:id="@+id/developer" />
+
+    <item
+        app:showAsAction="never"
+        android:title="About BMI"
+        android:id="@+id/BMI" />
+
+    <item
+        app:showAsAction="never"
+        android:title="Contect us"
+        android:id="@+id/contect" />
+
+    <item
+        app:showAsAction="never"
+        android:title="Rate_us"
+        android:id="@+id/ranking"/>
+
+    <item
+        app:showAsAction="never"
+        android:title="Exit"
+        android:id="@+id/Exit"/>
+</menu>
